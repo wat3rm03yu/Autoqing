@@ -12,15 +12,15 @@ python3 Autoqing.py "token" "cookie"
 
 
 
-![image-20240420193004554](\image\image-20240420193004554.png)
+![image-20240420193004554](./image/image-20240420193004554.png)
 
 # cookie
 
-![image-20240420192300037](image\image-20240420192300037.png)
+![image-20240420192300037](image/image-20240420192300037.png)
 
 最快的就是在我们点击开始学习之后，就可以在上图中拿到我们的cookie
 
-![image-20240420192409710](image\image-20240420192409710.png)
+![image-20240420192409710](./image/image-20240420192409710.png)
 
 
 
@@ -28,6 +28,6 @@ python3 Autoqing.py "token" "cookie"
 
 token最快在点击这个立即学习之后就可以得到
 
-![image-20240420192441044](\image\image-20240420192441044.png)
+![image-20240420192441044](./image/image-20240420192441044.png)
 
-![image-20240420192726285](\image\image-20240420192726285.png)
+![image-20240420192726285](./image/image-20240420192726285.png)# Autoqing
